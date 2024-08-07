@@ -29,3 +29,18 @@ To get a local copy up and running, follow these steps:
 
    ```bash
    git clone https://github.com/aminak81/convertUSDtoTOMAN.git
+
+2. **Navigate to the project directory:**
+
+   ```bash
+   cd convertUSDtoTOMAN
+
+3. **Install the dependencies:**
+
+   ```bash
+   npm install
+
+3. **Run the development server:**
+
+   ```bash
+   npm run dev
