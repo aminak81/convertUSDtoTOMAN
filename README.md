@@ -1,75 +1,31 @@
-# Nuxt 3 Minimal Starter
+# USD to Toman Converter
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+This project is a simple web application built using Nuxt.js and Vuetify that converts an amount in USD to Iranian Toman. It fetches real-time exchange rates and provides users with the current conversion based on user input.
 
-## Setup
+## Table of Contents
 
-Make sure to install the dependencies:
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [API Information](#api-information)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgements](#acknowledgements)
 
-```bash
-# npm
-npm install
+## Features
 
-# pnpm
-pnpm install
+- Real-time USD to Toman conversion
+- User-friendly interface
+- Responsive design
+- Error handling for invalid input
+- Toast notifications for user feedback
 
-# yarn
-yarn install
+## Installation
 
-# bun
-bun install
-```
+To get a local copy up and running, follow these steps:
 
-## Development Server
+1. **Clone the repository:**
 
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm run dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm run build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm run preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+   ```bash
+   git clone https://github.com/your-username/usd-to-toman-converter.git
